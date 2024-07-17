@@ -1,0 +1,53 @@
+- para esto tenemos que agregar el debugger: #gdb
+	- en ubuntu es
+	  ```bash
+	  sudo apt install gdb-multiarch
+	  ```
+	- en fedora podemos bajarlo de arm o podemos buscar algún repositorio que lo tenga.
+- para habilitar el gdb tenemos que agregar al `Embed.toml` #embed.toml
+  ```toml
+  [default.gdb]
+  enabled=true
+  
+  [default.reset]
+  halt_afterwards=true
+  ```
+  el halt_afterwards es para que espere al gdb a que se conecte
+  
+  Una vez que cargamos el programa tenemos que ejecutar en otra terminal el gdb pasándole el binario
+  ```bash
+  arm-none-eabi-gdb target/thumbv7em-none-eabihf/debug/nombre-proyecto 
+  
+  ```
+  Para evitar ver un montón de warnings podemos mandarlos a la salida del standard error agregando `2>null`
+- Ahora dentro del gdb podemos debuggear: #gdb
+  primero tenemos qeu conectarnos al micro:
+  ```gdb
+  target remote :1337
+  ```
+  
+  Para ver información de los registros del micro
+  ```gdb
+  info registers
+  ```
+  
+  Para ver el assembler "lindo"
+  ```gdb
+  set print asm-demangle on
+  disassemble
+  ```
+  
+  lo primero:
+	- stepi #gdb
+		- con stepi da un paso y vuelve hacer un disassenble cuando entra a un preinit
+		- para insertar un breakpoint hace
+			- break main.rs:12
+			- es el nombre de la función y el numero de linea
+			- con conitnue continua y vuelve a parar si esta break esta dentro del lazo
+			- con print x mira el valor de la variable x
+			- print &x mira la ubicación de x y está en el stack
+				- con set var x=6 pone el valor de x en 6
+				- con info break ve la información de los break points y luego lo quita con
+				- delete 1 donde 1 es el numero de breakpoint a quitar
+			- monitor reset resetea el microcontrolador?
+			-

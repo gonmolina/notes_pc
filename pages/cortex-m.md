@@ -1,0 +1,1 @@
+- Es un crate con las funcionalidades comunos a todos los cortex m. Los más básicos.
