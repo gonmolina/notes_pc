@@ -7,5 +7,5 @@
 			- Este pwd es que validamos contra lo que está en la base de datos, es decir *validate(pwd, user.pwd)*
 			- luego creamos el token con *create_token*
 			  id:: 669e7f0b-ff22-4731-a2b8-da2d5b7e2ba2
-		-
+		- El pwd_salt y el token_salt lo genera la base de datos
 	-
