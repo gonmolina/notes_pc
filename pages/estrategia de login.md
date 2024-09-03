@@ -1,5 +1,6 @@
 - Explicación general:
 	- se hace un request a un uri por https (http en debug), por ejemplo api/login
 		- va a tener un payload de json { username: "demo1", pwd_clear: "welcome"}
-		-
+		- del lado de backend tendremos que el requesto lo procesa:
+			- UserBmc::first_by_username(...)
 	-
