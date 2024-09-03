@@ -1,0 +1,2 @@
+- Explicación general:
+	- se hace un request a un uri por https (http en debug)

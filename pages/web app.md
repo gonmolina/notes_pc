@@ -1,2 +1,2 @@
 - Se explica en [Video de Rust web app production coding](https://www.youtube.com/watch?v=3cA_mk4vdWY&list=PL7r-PXl6ZPcCIOFaL7nVHXZvBmHNhrh_Q)
-- [[estegia de login]]
+- [[estrategia de login]]
