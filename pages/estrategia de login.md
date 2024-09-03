@@ -2,5 +2,6 @@
 	- se hace un request a un uri por https (http en debug), por ejemplo api/login
 		- va a tener un payload de json { username: "demo1", pwd_clear: "welcome"}
 		- del lado de backend tendremos que el requesto lo procesa:
-			- UserBmc::first_by_username(...) que nos devolverá un mensaje con: { id: 1000, username: "demo1", pwd "#01#....", pwd_salt: uuid token_salt: uuid,} esta es una estructura que
+			- UserBmc::first_by_username(...) que nos devolverá un mensaje con: { id: 1000, username: "demo1", pwd "\#01\#....", pwd_salt: uuid token_salt: uuid,} esta es una estructura la llamamos UsrForLogin
+			-
 	-
