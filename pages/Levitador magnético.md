@@ -1,0 +1,16 @@
+- brito Vega morales
+	- técnicas decontrol clásico
+- ## comentarios
+- perturbacion en el huelgo ?
+- menor ruido en vez de dispersión
+- arrancaron de 0 los cambios!
+-
+-
+-
+- ## preguntas
+- esta torcido el centro: notaron algún problema?
+- fuerza magnética, de donde salió?
+- x=(i/h)^2 ??
+- tau no parece tan bien estimado...
+- error en kmag?
+- por que los requerimientos que se impusieron?!

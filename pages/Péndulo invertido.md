@@ -1,0 +1,11 @@
+- eliseo, toribio
+- ## comentarios
+  id:: 66d70f4d-0aa0-4992-bbff-9d8df1951ea2
+- sistema de control arduino? es solo un I/O
+	- no se muy exponencial. entre qu puntos obtuvieron
+	- por que se pone nervioso?
+- filmina 42 escalon en sp?
+- figuras no tienen se que stoy viendo de la 42  la 47
+-
+-
+- ## preguntas
