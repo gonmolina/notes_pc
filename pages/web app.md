@@ -1,2 +1,2 @@
-- Se esplica en
+- Se explica en
 - en este capitulo de la
