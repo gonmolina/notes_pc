@@ -5,5 +5,7 @@
 			- UserBmc::first_by_username(...) que nos devolverá un mensaje con: { id: 1000, username: "demo1", pwd "\#01\#....", pwd_salt: uuid token_salt: uuid,} esta es una estructura la llamamos UsrForLogin
 			- Luego vamos a encriptar el password con *encrypt(pwd_clear)* que devolverá el  pwd
 			- Este pwd es que validamos contra lo que está en la base de datos, es decir *validate(pwd, user.pwd)*
-			- luego creamos el token
+			- luego creamos el token con *create_token*
+			  id:: 669e7f0b-ff22-4731-a2b8-da2d5b7e2ba2
+		-
 	-
