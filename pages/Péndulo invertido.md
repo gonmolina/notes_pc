@@ -1,4 +1,5 @@
-- Puesta en funcionamiento
+## Puesta en funcionamiento
+	- Lo más fácil es dejarlo que se vaya y ponerlo a mano en posición vertical y aco
 - ### Laboratorio 2024
 -
 - eliseo, toribio
