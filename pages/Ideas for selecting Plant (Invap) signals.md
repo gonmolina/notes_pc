@@ -1,4 +1,5 @@
 - {{renderer excalidraw, excalidraw-2024-09-09-12-27-38}}
 - Components:
-	- - a component that show tag, description ? (maybe)
+	- a component that show tag, maybe description, and add or remove signal for a given tag
+	-
 -
