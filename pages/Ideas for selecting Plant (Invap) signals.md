@@ -1,3 +1,4 @@
 - {{renderer excalidraw, excalidraw-2024-09-09-12-27-38}}
-- 3 components, a component that show all data for
+- Components:
+	- - a component that show tag, description ? (maybe)
 -
