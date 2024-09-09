@@ -3,8 +3,8 @@
 	- Se queda bastante estable
 -
 -
-- ### Laboratorio 2024
 -
+- ### Laboratorio 2024
 - eliseo, toribio
   id:: 66d75706-863c-4199-a0bc-6b21902f8b97
 -
