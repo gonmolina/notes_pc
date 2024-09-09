@@ -2,6 +2,7 @@
 	- Lo más fácil es dejarlo que se vaya y ponerlo a mano en posición vertical y acomodarlo suavemente.
 	- Se queda bastante estable
 -
+-
 - ### Laboratorio 2024
 -
 - eliseo, toribio
