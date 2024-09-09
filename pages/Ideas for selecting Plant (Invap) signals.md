@@ -1,1 +1,2 @@
-- [[draws/2024-09-09-12-24-13.excalidraw]]
+- {{renderer excalidraw, excalidraw-2024-09-09-12-27-38}}
+-
