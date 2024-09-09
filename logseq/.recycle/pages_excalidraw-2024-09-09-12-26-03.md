@@ -5,5 +5,5 @@ excalidraw-plugin:: true
   #+END_IMPORTANT
 - {{renderer excalidraw-menu, excalidraw-2024-09-09-12-26-03}}
 - ```json
-  {"elements":[],"files":null}
+  {"elements":[],"files":{},"appState":{"gridSize":null,"viewBackgroundColor":"#ffffff","zoom":{"value":1},"offsetTop":20,"offsetLeft":0,"scrollX":0,"scrollY":0,"viewModeEnabled":false,"zenModeEnabled":false}}
   ```
