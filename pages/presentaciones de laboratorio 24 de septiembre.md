@@ -1,0 +1,4 @@
+- [[caracterización de un motor de 4 tiempos]]
+- [[balanceo de un sistema rotante bajo la hiptesis de un plano]]
+- [[verificación experimental e a ley de pared de un canal rectangular]]
+-
