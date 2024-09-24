@@ -1,4 +1,4 @@
-- Presentaciones
+- 3 de septimebre
 - [[Levitador magnético]]
   id:: 66d75706-c818-4689-8580-971f5d6af047
 - [[Péndulo invertido]]
