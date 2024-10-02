@@ -11,4 +11,5 @@
 	-
 - Prueba usando la version de linux y descomprimida en el directorio .local/share/appl.... parace estar sincronizando.
 -
+- A veces anda, a veces no. Puede ser que este tardado mucho el Push?!
 -
