@@ -6,3 +6,9 @@
 -
 - La cagada de esta forma es que no se sincroniza cuando se cierra,
 	-
+	-
+	-
+	-
+- Prueba usando la version de linux y descomprimida en el directorio .local/share/appl.... parace estar sincronizando.
+-
+-
