@@ -2,4 +2,6 @@
 	- devel
 	- producción
 - en ambos el usuario y password pueden ser devel devel o inst1 inst1
+- control de temperatura con secundario
+	- se realiza manipulando presión
 -
