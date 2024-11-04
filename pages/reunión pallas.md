@@ -7,5 +7,7 @@
 	- se realiza manipulando presión
 -
 - ### tareas
-	- controlador de temperatura
+	- TODO controlador de temperatura
 	  id:: 6728d590-83b2-4e34-b80e-7ba5a5e46d46
+	- TODO control de potencia
+	-
