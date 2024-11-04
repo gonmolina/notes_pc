@@ -7,7 +7,7 @@
 - control de temperatura con secundario
 	- se realiza manipulando presión
 	- control de potencia
--
+- id:: 6728fbc5-33c9-4d71-a2a7-c9d25f84afd4
 - ## tareas
 	- TODO controlador de temperatura
 	  id:: 6728d590-83b2-4e34-b80e-7ba5a5e46d46
