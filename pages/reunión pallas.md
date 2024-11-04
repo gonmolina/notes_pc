@@ -1,5 +1,4 @@
 - simuladores:
-  collapsed:: true
 	- devel
 	- producción
 - en ambos el usuario y password pueden ser devel devel o inst1 inst1
@@ -7,18 +6,19 @@
 	- se realiza manipulando presión
 	- control de potencia
 -
-- ### tareas
+- ## tareas
 	- TODO controlador de temperatura
 	  id:: 6728d590-83b2-4e34-b80e-7ba5a5e46d46
 	- TODO control de potencia
 	- TODO lógica de latcheo
 	- TODO pantalla de latcheo reset fal del sistema de protección
 -
-- ## sistema de proteccón
+- ## sistema de protección
 	- señal de estado de spr (prendido/apagado ) y in power o physics tests
 	- la  señal de trip latcheada
 	-
 - ## piloto automatico
 	- logica de conexion y desconexion, solo pontencia
-	-
+	- se usal el canal lineal (), pero podría usar potencia
+	- cambios de referencia limito velocidad
 	-
