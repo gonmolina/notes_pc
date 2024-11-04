@@ -12,4 +12,13 @@
 	  id:: 6728d590-83b2-4e34-b80e-7ba5a5e46d46
 	- TODO control de potencia
 	- TODO lógica de latcheo
+	- TODO pantalla de latcheo reset fal del sistema de protección
+-
+- ## sistema de proteccón
+	- señal de estado de spr (prendido/apagado ) y in power o physics tests
+	- la  señal de trip latcheada
+	-
+- ## piloto automatico
+	- logica de conexion y desconexion, solo pontencia
+	-
 	-
