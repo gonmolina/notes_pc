@@ -1,4 +1,5 @@
 - simuladores:
 	- devel
 	- producción
-- en ambos el usuario y password pueden ser devel deve o inst1 inst1
+- en ambos el usuario y password pueden ser devel devel o inst1 inst1
+-
