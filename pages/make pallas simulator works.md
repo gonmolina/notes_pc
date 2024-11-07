@@ -1,0 +1,2 @@
+- la variable a manipular es s4200-borrar-hx
+- la señal medida es
