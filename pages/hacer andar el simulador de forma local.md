@@ -18,4 +18,7 @@
 		  id:: 672d05a5-2a4c-4cc7-b2e8-3f9a69353129
 			- para hacerlo andar tengo que ejecutar el siguiente comando:
 			- ```bash
+			  	./pwd/server -m mongodb://pallasUSER:peql1234@10.73.32.33/test -db pallas -h 0.0.0.0
 			  ```
+			- lo tengo que eje
+-
