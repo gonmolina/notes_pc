@@ -18,7 +18,21 @@
 		  id:: 672d05a5-2a4c-4cc7-b2e8-3f9a69353129
 			- para hacerlo andar tengo que ejecutar el siguiente comando:
 			- ```bash
-			  	./pwd/server -m mongodb://pallasUSER:peql1234@10.73.32.33/test -db pallas -h 0.0.0.0
+			  ./build/src/server -m mongodb://pallasUSER:peql1234@10.73.32.33/test -db pallas -h 0.0.0.0
 			  ```
-			- lo tengo que eje
+			- lo tengo que ejecutar de forma de ver el archivo server en la ubicacion que estoy buscando
+- ## arquitectura
+- Para la arquitectura ejecutar el bat que se corresponde al modo de desarrollo
+	- usuario y password devel 
+	  id:: 672d0936-d250-4fd6-977f-603ec5ad5d98
+	- hay que generar el modulo para ejecucion,
+		- yo lo veo como una especie de configuración de instancia
+		- para configurar el modulo de webdiagram hay que poner:
+			- un nombre a la configuracion (a mi configuración le puse gonza)
+			- En host hay que poner la dirección de la máquina donde corre el webdiagram con protocolo ws y puerto 8001, es decir ws://10.73.32.988:80001
+			  id:: 672d0a43-b222-473f-ba44-38ed4290b572
+			- En instance name pones el nombre de usuario para generar las instancias en webdiagram al vuelo. De esta manera el modulo usa la instancia creada acutal por el usurio. Si se usa esta configuración se debe dejar vacio el instance config
+			- si se llena el instance confug usa una de las configuraciones de operación guardadas
+		-
+-
 -
